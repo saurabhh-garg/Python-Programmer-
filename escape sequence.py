@@ -1,0 +1,8 @@
+print("==========================================\n           HACKER TERMINAL v1.0\n==========================================")
+print("\nConnecting to Server", end="...\n")
+print("\nStatus:\n\tConnected")
+print("\nTarget:\n\t\"Secret Database\"")
+print("\nPath:\n\tC:\\Users\\Admin\\Documents")
+print("\nDownloading...\n\t\"Download Complete!\"") 
+print("\nWARNING:\n\t\"Unauthorized access detected!\"")
+print("\nMission Complete", end='.')
