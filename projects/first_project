@@ -1,0 +1,9 @@
+# Login Python after four fuckinn days.......
+# Crickter Score Tracker
+print("===== CRICKET SCORE TRACKER =====")
+
+Score1 = int(input("Enter score of Player 1: ")) 
+Score2 = int(input("Enter score of Player 2: ")) 
+Score3 = int(input("Enter score of Player 3: "))
+Score4 = int(input("Enter score of Player 4: "))
+Score5 = int(input("Enter score of Player 5: "))
